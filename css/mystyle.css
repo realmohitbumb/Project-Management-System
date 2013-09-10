@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+#login {
+
+width:300px;
+height:170px;
+margin:50px 385px 180px 490px;
+padding: 45px 0 0 51px;
+background-color:#CCCCCC;
+
+}
+
+#header {
+background-color:#CCD2D4;
+margin:0 auto;
+padding:0 0;
+width:900px;
+height:100px;
+}
+
+body {
+background-color:#8E9CA1;
+margin:0 auto;
+}
+
+#footer {
+background-color:#CCCCCC;
+margin:0 auto;
+width:900px;
+height:100px;
+}
+
